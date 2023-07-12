@@ -1,6 +1,5 @@
-# config_server
 
-# Title: Configuration Repository for Configuration Server
+#  Configuration Repository for Configuration Server
 
 # Introduction:
 This repository serves as a central storage for configuration files used by a Configuration Server. It enables the management and version control of application configuration properties in a centralized and organized manner. By leveraging this repository, you can effectively manage and distribute configuration files across different environments and applications.
